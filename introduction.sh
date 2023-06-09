@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Game Introduction
+echo "--------------------------------------------------------"
+echo "               UNSC Linux Adventure"
+echo "--------------------------------------------------------"
+echo ""
+echo "Welcome, soldier, to the UNSC Linux Adventure!"
+echo ""
+echo "You find yourself in the midst of a futuristic world, where the UNSC"
+echo "has deployed a squad of elite soldiers to a mysterious planet."
+echo ""
+echo "Your mission is to explore ancient Forerunner ruins, recover lost"
+echo "technology, and uncover the secrets that lie within."
+echo ""
+echo "Armed with your hacking skills and the power of Linux commands, you"
+echo "must navigate through the challenges, puzzles, and dangers that await"
+echo "you in this thrilling adventure."
+echo ""
+echo "May your command-line skills be sharp and your determination unwavering."
+echo "The fate of humanity rests in your hands. Good luck, soldier!"
+echo ""
